@@ -1,0 +1,6 @@
+{
+  "browserSettings": "--start-maximized",
+  "timeoutInSeconds": 9,
+  "BrowserType": "firefox",
+  "LogLevel": "none"
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VM6HLnaH9AmC5prUK3WJGv9IzmOyHHrFpTy98+iwldhm31e9ArGTrsZ7RayZnuKF7YxtpSuaVlH39PK3/P5Kxw==",
+  "success": true,
+  "projectFilePath": "D:\\CodeProjects\\ITechArtProject\\ParseCsvFile\\ParseCsvFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enver\\.nuget\\packages\\serilog\\2.12.1-dev-01587\\serilog.2.12.1-dev-01587.nupkg.sha512",
+    "C:\\Users\\enver\\.nuget\\packages\\serilog.sinks.file\\5.0.1-dev-00947\\serilog.sinks.file.5.0.1-dev-00947.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0164b220_002D59be_002D4845_002D8141_002D91efe5bac1d3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MainPageTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FA876A04-2193-450C-B3B1-C78229E0659D::net6.0::LoginToWebSite.Test.MainPageTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4374a070_002Dda6a_002D4026_002Db6ee_002D27c7f7bfe90b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MainPageTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FA876A04-2193-450C-B3B1-C78229E0659D::net6.0::LoginToWebSite.Test.MainPageTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FA876A04-2193-450C-B3B1-C78229E0659D::net6.0::LoginToWebSite.Base.BaseTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
